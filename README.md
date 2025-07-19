@@ -36,7 +36,7 @@ This script follows the official [Next.js migration guide](https://nextjs.org/do
 
 1. **Download the migration script** to your project root:
    ```bash
-   curl -O https://raw.githubusercontent.com/yourusername/lovable-vite-nextjs-migration/main/migrate-to-nextjs.js
+   curl -O https://raw.githubusercontent.com/sergust/lovable-vite-nextjs-migration/main/migrate-to-nextjs.js
    ```
 
 2. **Run the migration**:
